@@ -2,7 +2,7 @@
 void main(){
 
     int x[]={10,20,30,40,50};
-    printf("\n%d %d %d %d 5d",x[4],x[3],x[2],x[1]x[0]);
+    printf("\n%d %d %d %d 5d",x[4],x[3],x[2],x[1],x[0]);
 }
 
 /*What is the output?
