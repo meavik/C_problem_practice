@@ -1,15 +1,15 @@
 #include<stdio.h>
 int main(){
 
-    int i = 48;
-    printf("\n %c %d",i,i);
+    int x = 10,y = 20;
+    printf("\n %d",x,y);
 
     return 0;
 }
 /*
 What is the output?
-1.Error
-2.48 48
-3.1 48
-4.0 48
+1.10
+2.20
+3.10 20
+4.Syntax Error
 */
